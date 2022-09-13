@@ -3,4 +3,6 @@
 x <- rnorm(2000)
 y <- rnorm(10000)
 
+## New feature
+
 ## Important feature
